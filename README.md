@@ -1,4 +1,4 @@
-# Portafolio
+# Portafolio María Paz Figueroa Aedo
 ## Renders y modelado 3D
 ### Morteros 
 ![2022-06-22](https://user-images.githubusercontent.com/101216595/175198972-80eb77a9-7927-4891-ad0e-24d2fc66984c.png)
