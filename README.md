@@ -33,6 +33,6 @@
 ![2022-06-22 (22)](https://user-images.githubusercontent.com/101216595/175199386-36a0bce0-1559-47c9-b757-d30b224c8aaa.png)
 
 ### Logos 
-![Logo_LimnoEquip tamaño_icono](https://user-images.githubusercontent.com/101216595/175199461-65293400-23a8-4801-b513-bc3a45dc584f.png)
+![Logo_LimnoEquip grande](https://user-images.githubusercontent.com/101216595/175202349-3c0a1835-b1b5-4f80-91ba-17b3300dfaf4.png)
 ![2022-06-22 (24)](https://user-images.githubusercontent.com/101216595/175199683-e055db35-52af-4c53-aea1-aa798ad83bf4.png)
 ![Logo_artesana](https://user-images.githubusercontent.com/101216595/175199761-3b6992e3-1bca-4789-a454-f201f9b5d71e.jpg)
